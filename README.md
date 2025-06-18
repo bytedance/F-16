@@ -14,7 +14,7 @@ F-16 is a powerful video large language model (LLM) that **perceives high-frame-
 
 ## ⚡️ Future Plans
 
-- ***Release the code.*** 
+- ~~Release the code.~~
 - Release final F-16. 
 
 ## 🌈 How to Use
