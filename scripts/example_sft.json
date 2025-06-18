@@ -1,0 +1,15 @@
+[
+    {
+        "video": "path_to_video",
+        "conversations":[
+            {
+                "from": "human", 
+                "value": "<image>\nPrompt"
+            },
+            {
+                "from": "gpt",
+                "value": "Response"
+            }
+        ]
+    }
+]
