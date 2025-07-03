@@ -5,7 +5,7 @@
 F-16 is a powerful video large language model (LLM) that **perceives high-frame-rate videos**, which is developed by the Department of Electronic Engineering at Tsinghua University and ByteDance. 
 
 <div style='display:flex; gap: 0.25rem; '>
-<a href='https://arxiv.org/abs/2503.13956'><img src='https://img.shields.io/badge/F_16_paper-PDF-green'></a><a href='[https://arxiv.org/abs/2503.13956](https://huggingface.co/tsinghua-ee/F-16)'><img src='https://img.shields.io/badge/F_16-checkpoint-yellow'></a>
+<a href='https://arxiv.org/abs/2503.13956'><img src='https://img.shields.io/badge/F_16_paper-PDF-green'></a><a href='https://huggingface.co/tsinghua-ee/F-16'><img src='https://img.shields.io/badge/F_16-checkpoint-yellow'></a>
 </div>
 
 ## 🔥 News
